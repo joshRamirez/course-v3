@@ -33,7 +33,7 @@ Write in the terminal “cd ..”
 
 In order to move faster and avoid typo errors while navigating between folders, you should use Tab. You just need to start to type the file or directory name and once you wrote enough for it to be identified, you can press Tab.
 
-If there is only one folder or file that starts with the characters you wrote, the name will be autocompleted. If there are many that start that way, you can press double Tab to list them; in order words, it is like using the command "ls" .
+If there is only one folder or file that starts with the characters you wrote, the name will be autocompleted. If there are many that start that way, you can press double Tab to list them; in other words, it is like using the command "ls" .
 
 ### How to copy and paste to/from the terminal?
 
